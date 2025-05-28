@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DUXin-ece
-- 📚 I'm currently studying at UCSD, my major is Computer Engineering
+- 📚 ZJU/UCSD
 - 👀 I’m interested in System Design
-- 🌱 I’m currently learning Complier and GPU Programming.
+- 🌱 I’m currently working on AI Compiler
 - 📫 Email: xdu@ucsd.edu
 
 <!---
